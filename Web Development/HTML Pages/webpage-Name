@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>HOMEPAGE</title>
+</head>
+<body> 
+<button id="Home" style="background-color:purple;"> Homepage</button>
+<button id="Hobbies" style="background-color:purple;"> Hobbies</button>
+<button id="Education" style="background-color:purple;"> Education</button>
+<button id="Contact" style="background-color:purple;"> Contact Me</button>
+<button id="Timetable" style="background-color:purple;"> Timetable</button>
+<img src="me.jpg" title="Yash Kulkarni"></img>
+</body>
+</html>
